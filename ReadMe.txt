@@ -1,0 +1,1 @@
+deluxe quaternion to euler conversion
